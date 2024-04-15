@@ -22,11 +22,14 @@
 				"Android",
 				"IOS"
 			]
+<<<<<<< HEAD
 		},
 		{
 			"Name": "HttpGPT",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/433c180835184aeca0172680a69497ee"
+=======
+>>>>>>> 9def634f6a5eb9892fd3584e7048fd1a16fd301b
 		}
 	]
 }
