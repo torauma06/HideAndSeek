@@ -74,5 +74,9 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Our assets
+<<<<<<< HEAD
 Content/ResearchMegaPack/*
 Content/CesiumSettings/*
+=======
+Content/ResearchMegaPack/*
+>>>>>>> 913ce539e44a4ffbd7817e4749014127bc2a933d

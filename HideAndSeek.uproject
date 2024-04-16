@@ -4,5 +4,35 @@
 	"Category": "",
 	"Description": "",
 	"Plugins": [
+<<<<<<< HEAD
+=======
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "CesiumForUnreal",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/87b0d05800a545d49bf858ef3458c4f7",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux",
+				"Android",
+				"IOS"
+			]
+<<<<<<< HEAD
+		},
+		{
+			"Name": "HttpGPT",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/433c180835184aeca0172680a69497ee"
+=======
+>>>>>>> 9def634f6a5eb9892fd3584e7048fd1a16fd301b
+		}
+>>>>>>> 913ce539e44a4ffbd7817e4749014127bc2a933d
 	]
 }
